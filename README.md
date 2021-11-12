@@ -14,33 +14,21 @@
 </br>
 
 ## Habilidades:
-<div>
-  <p><b>Lenguajes de programación:</b></p>
-  <p>
-    <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_kotlin.svg" height="17"> Kotlin 
-    <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_java.svg" height="17"> Java 
-    <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_c_sharp.svg" height="17"> C#
-  </p>
-</div>
+- Lenguajes de programación:
+  - <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_kotlin.svg" height="17"> Kotlin 
+  - <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_java.svg" height="17"> Java 
+  - <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_c_sharp.svg" height="17"> C#
 </br>
 
-<div>
-  <p><b>Bases de datos:</b></p>
-  <p>
-    <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_firebase.svg" height="17"> Firebase 
-    <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_mysql.svg" height="17"> MySQL 
-    <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_sql_server.svg" height="17"> SQL Server
-  </p>
-</div>
+- Bases de datos: 
+  - <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_firebase.svg" height="17"> Firebase 
+  - <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_mysql.svg" height="17"> MySQL 
+  - <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_sql_server.svg" height="17"> SQL Server
 </br>
 
-<div>
-  <p><b>Software/herramientas:</b></p>
-  <p>
-    <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_figma.svg" height="17"> Figma 
-    <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_photoshop.svg" height="17"> Photoshop
-  </p>
-</div>
+- Software/herramientas:
+  - <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_figma.svg" height="17"> Figma 
+  - <img src="https://github.com/jgijonmedel/jgijonmedel/blob/main/ic_photoshop.svg" height="17"> Photoshop
 </br>
 </br>
 </br>
